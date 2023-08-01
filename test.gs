@@ -1,5 +1,5 @@
 const testPantone =  () => {
-console.log(Exports.Schemer)
+
   // the reference color scheme 
   const schemeFiddler = Exports.newPreFiddler({
     sheetName: "Reference Pantone",
