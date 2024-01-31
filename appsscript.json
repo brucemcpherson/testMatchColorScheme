@@ -11,9 +11,9 @@
       },
       {
         "userSymbol": "bmMatchColorScheme",
-        "version": "1",
         "libraryId": "1pSqfgB0tYpqtncEen_wyEcXiwMvivpNgOl_Umz_5u-BINKUm4pKXSqhp",
-        "developmentMode": false
+        "version": "0",
+        "developmentMode": true
       }
     ]
   }
