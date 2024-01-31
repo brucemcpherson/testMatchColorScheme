@@ -12,6 +12,9 @@ var Exports = {
     return bmMatchColorScheme.Exports.Schemer
   },
 
+  get bmChroma () {
+    return bmMatchColorScheme.Exports.bmChroma
+  },
 
   // used to trap access to unknown properties
   guard(target) {
